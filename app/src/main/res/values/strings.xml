@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginPageExample</string>
+    <string name="text_hint_username">Username</string>
+    <string name="text_hint_password">Password</string>
+    <string name="text_btn_login">Login</string>
+    <string name="text_login_with_facebook">Login With Facebook</string>
+    <string name="text_login_with_google">Login With Google</string>
+    <string name="text_error_password_empty">Password is Required!</string>
+    <string name="text_error_username_empty">Username is Required!</string>
+    <string name="text_toast_login_success">Login Success!</string>
+    <string name="text_toast_login_failed">Login Failed !</string>
+    <string name="text_login_success_google">Google Login Success!</string>
+    <string name="text_login_success_fb">Login Facebook Success</string>
+    <string name="text_menu_logout">logout</string>
+    <string name="text_actionbar_homepage">Homepage</string>
+    <string name="text_toast_logout_success">Success Logging out</string>
+</resources>
