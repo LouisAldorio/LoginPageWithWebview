@@ -6,9 +6,14 @@
     android:layout_height="match_parent"
     tools:context=".ui.homepage.HomeActivity">
 
-    <WebView
-        android:id="@+id/wv_page"
+<!--    <WebView-->
+<!--        android:id="@+id/wv_page"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:layout_width="match_parent" />-->
+
+    <FrameLayout
+        android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_width="match_parent" />
+        android:id="@+id/fl_container"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

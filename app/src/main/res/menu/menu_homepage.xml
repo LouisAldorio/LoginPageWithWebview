@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item android:id="@+id/menu_action_spotify"
+        android:title="@string/text_manu_spotify"
+        android:icon="@drawable/ic_spotify"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/menu_action_youtube"
+        android:title="@string/text_menu_youtube"
+        android:icon="@drawable/ic_youtube"
+        app:showAsAction="ifRoom"/>
+
     <item android:id="@+id/menu_action_logout"
         android:title="@string/text_menu_logout"
         android:icon="@drawable/ic_logout"
         app:showAsAction="ifRoom"/>
+
 </menu>

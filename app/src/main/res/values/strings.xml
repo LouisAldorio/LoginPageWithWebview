@@ -14,4 +14,8 @@
     <string name="text_menu_logout">logout</string>
     <string name="text_actionbar_homepage">Homepage</string>
     <string name="text_toast_logout_success">Success Logging out</string>
+    <string name="text_menu_youtube">youtube</string>
+    <string name="text_manu_spotify">Spotify</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
